@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Necmettin</h1>
-<h3 align="center">Türkiye'de Yazılım Geliştirici</h3>
+<h3 align="center"> Software Developer in Turkey </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncmttnceviz&label=Profile%20views&color=0e75b6&style=flat" alt="ncmttnceviz" /> </p>
 
